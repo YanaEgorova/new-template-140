@@ -88,10 +88,7 @@
         text-align: left;
         padding: 30rem 5rem 30rem;
     }
-    .cart__btn {
-        margin-left: 0;
-    }
-
+ 
 
     .policy__block .policy__btn:hover {
         border-color: var(--third-brand-color);
