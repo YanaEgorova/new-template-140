@@ -100,6 +100,7 @@
     }
     .policy__list {
         display: flex;
+        justify-content: center;
     }
     .policy__item {
         width: 50%;
