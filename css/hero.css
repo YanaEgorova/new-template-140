@@ -103,10 +103,12 @@
     .hero .title {
         max-width: 60rem;
         position: relative;
+        color: #fff;
     }
     .hero .text {
         max-width: 40rem;
         position: relative;
+          color: #fff;
     }
  
 
